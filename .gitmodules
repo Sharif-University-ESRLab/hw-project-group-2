@@ -1,0 +1,6 @@
+[submodule "Code/tsmart-relay"]
+	path = Code/tsmart-relay
+	url = https://github.com/Grackins/tsmart-relay.git
+[submodule "Code/tsmart-server"]
+	path = Code/tsmart-server
+	url = https://github.com/Grackins/tsmart-server.git
